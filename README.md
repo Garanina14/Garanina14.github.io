@@ -3,10 +3,8 @@
 <title>Юлия Гаранина</title>
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
  <link rel="stylesheet" href="main.css">
-	
-
 </head>
-
+	
 <body class="container">
 		<h1>Юлия Гаранина</h1>
 
@@ -52,4 +50,3 @@
           <li class="links__link">
             <p class="links__title">Занимаюсь спортом</p>
                     
-        </ul>
