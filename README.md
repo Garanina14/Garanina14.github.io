@@ -3,8 +3,9 @@
 <title>Юлия Гаранина</title>
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
  <link rel="stylesheet" href="main.css">
+
 </head>
-	
+
 <body class="container">
 		<h1>Юлия Гаранина</h1>
 
@@ -29,12 +30,9 @@
 			</div>
 								<script type="text/javascript" src="js.js"></script>
 
-</body>
 
-<h2>Обо мне:</h2>
-
-			
-        <ul class="links__container">
+     <h2>Обо мне:</h2>
+		        <ul class="links__container">
           <li class="links__link">
             <p class="links__title">Блондинка с высшим юридическим</p>
           
@@ -49,4 +47,9 @@
           </li>
           <li class="links__link">
             <p class="links__title">Занимаюсь спортом</p>
-                    
+                   
+        </li>
+        </ul>
+    </body>
+
+</html>
